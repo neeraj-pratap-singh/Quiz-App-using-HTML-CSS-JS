@@ -133,3 +133,4 @@ incrementScore = bonus => {
   score += bonus;
   scoreText.innerText = score;
 };
+
